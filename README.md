@@ -10,6 +10,8 @@ In this lab, you will be able to clone a Repository, push a local project, and p
     ```console 
     git clone <url>
     ```
+
+    
 3. **Create** a new branch (firstname-lastname) e.g. `Hadeel-Alharbi`.
    ```console 
    git branch firstname-lastname
